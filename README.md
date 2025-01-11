@@ -53,7 +53,7 @@ Correlation between stadium capacity and match attendance.
 Advanced team and player performance metrics.
 
 **Conclusion**
-*This project provided in-depth insights into UEFA competitions, enabling the following:*
+This project provided in-depth insights into UEFA competitions, enabling the following:
 Identifying key players, teams, and matches that influenced the outcomes of tournaments.
 Understanding the impact of stadiums and match locations on performance and attendance.
 Gaining actionable insights into player and team dynamics, helping stakeholders make data-driven decisions.
